@@ -1,5 +1,4 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
-<h3 align="center">A Beginner Programmer</h3>
 
 - 🌱 I’m currently learning **Python and in the near future, I am going to learn Django/Flask :smiley:**
 
