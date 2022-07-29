@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 
-- 🌱 I’m currently learning **Python and in the near future, I am going to learn Django/Flask :smiley:**
+- 🌱 I’m currently learning **Python and I would like to develope myself in Data Science/Machine learning :smiley:**
 
 - 📫 How to reach me **patrick_scnd@yahoo.com**
 
