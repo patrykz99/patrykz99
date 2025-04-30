@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Patryk</h1>
 
-- 🌱 I’m currently improving skills in **Python (Flask framework),analytical tools and databases, also I'm interested in manual testing. I like learning new technologies :smiley:**
+- 🌱 I’m currently improving skills in QA engineering (Manual Testing as well as Automation testing) and databases. I like learning new technologies :smiley:**
 
 - Look into my repositories and check what I've already done 😎
 
